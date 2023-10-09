@@ -20,16 +20,16 @@ La branche master correspond au code à la fin de la formation.
 ## Installation
 
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
-   - [Liste des logiciels/dépendances utiles à la formation] 
+   - Jupyter Notebook
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
 3. [Instructions spécifiques au cours] 
 
 
 ### Formateur
 
-**Nom du formateur** 
+**Alison PATOU** 
 
- Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
+ Retrouvez mes autres formations sur [LinkedIn Learning](https://www.linkedin.com/learning/instructors/alison-patou).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com
