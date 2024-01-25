@@ -4,7 +4,7 @@ Ce dossier Repository est lié au cours `Python pour tous`. Le cours entier est 
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
-DESCRIPTION DE LA FORMATION
+Python est un des langages de programmation les plus utilisés mais aussi l'un des plus simples à apprendre. Dans cette formation, en compagnie d'Alison Patou, vous découvrirez toutes les bases de ce langage, en définissant chaque terme pour mieux l'appréhender. Non-programmeurs, Python n'aura ensuite plus de secret pour vous !
 
 ## Instructions
 
