@@ -1,6 +1,6 @@
-# Nom final de la formation
+# Python pour tous
 
-Ce dossier Repository est lié au cours `Nom final de la formation`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier Repository est lié au cours `Python pour tous`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
