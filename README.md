@@ -22,7 +22,6 @@ La branche master correspond au code à la fin de la formation.
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
    - Jupyter Notebook
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
-3. [Instructions spécifiques au cours] 
 
 
 ### Formateur
